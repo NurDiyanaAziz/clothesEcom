@@ -8,7 +8,7 @@ public class EClothesEcomProjectApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(EClothesEcomProjectApplication.class, args);
-		System.out.println("testing");
+		System.out.println("testing 1");
 	}
 
 }
